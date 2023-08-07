@@ -56,4 +56,5 @@ export default defineConfig({
       },
     }),
   ],
+  base: "/DCatet---Catatan-Web-App",
 });
